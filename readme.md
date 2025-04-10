@@ -25,7 +25,9 @@ Arayüz PySide6 ile tasarlanmış olup internet bağlantısıyla ilk çalıştı
 
 İndirdiğiniz zip dosya yapısında şunlar olmalı:
 
-app.exe, uninstall.bat, BENI OKU.txt
+- `app.exe`
+- `uninstall.bat`
+- `BENI OKU.txt`
 
 **!!! İNDİRDİĞİNİZ DOSYADA BUNLAR YOKSA AÇMAYIN !!!**
 
