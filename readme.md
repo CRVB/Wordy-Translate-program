@@ -28,6 +28,7 @@ Arayüz PySide6 ile tasarlanmış olup internet bağlantısıyla ilk çalıştı
 app.exe, uninstall.bat, BENI OKU.txt
 
 !!!!!!! İNDİRDİĞİNİZ DOSYADA BUNLAR YOKSA AÇMAYIN !!!!!!!!
+
 !!!!!!! İLK ÇALIŞTIĞINDA 4 GB MODEL DOSYASI İNDİRECEKTİR !!!!!!!!
 
 ### Çalıştırmak için:
