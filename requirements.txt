@@ -1,0 +1,7 @@
+transformers>=4.36.0
+torch
+sentencepiece
+langdetect
+pyside6==6.5.2
+shiboken6==6.5.2
+numpy==1.26.4

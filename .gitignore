@@ -1,0 +1,18 @@
+# Build klasörleri
+build/
+dist/
+setup/
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code ayar dosyası (isteğe bağlı)
+.vscode/
+
+# Environment dosyaları
+.env
+
+# Pip cache
+pip-wheel-metadata/
