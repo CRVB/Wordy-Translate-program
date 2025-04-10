@@ -4,6 +4,11 @@ Bu uygulama, Meta'nın NLLB (No Language Left Behind) modelini kullanarak masaü
 
 Arayüz PySide6 ile tasarlanmış olup internet bağlantısıyla ilk çalıştırmada gerekli çeviri modeli indirilir.
 
+| Desteklenen Platform | İndir |
+|----------------------|-------|
+| Windows 10 ve üzeri için .exe uzantılı | [İndir](https://www.mediafire.com/file/fjj9bwliavgnhgy/Wordy-translate.zip/file) |
+
+
 ---
 
 ## 🚀 Özellikler
