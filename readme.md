@@ -1,6 +1,6 @@
 # 🌍 Wordy Çeviri Programı
 
-Bu uygulama, Meta'nın NLLB (No Language Left Behind) modelini kullanarak masaüstünde çalışan bir çeviri programıdır.
+Bu uygulama, Meta'nın [nllb-200-distilled-600M](https://huggingface.co/facebook/nllb-200-distilled-600M) modelini kullanarak masaüstünde çalışan bir çeviri programıdır.
 
 Arayüz PySide6 ile tasarlanmış olup internet bağlantısıyla ilk çalıştırmada gerekli çeviri modeli indirilir.
 
@@ -67,4 +67,4 @@ Programı tamamen kaldırmak ve model dosyalarını silmek için:
 
 ## Lisans
 
-Model dosyasında Meta'nın MIT Lisanslı NLLB Modeli bulunduğu için ticari amaçla kullanımından doğacak herhangi bir sorumluluğum bulunmamaktadır.
+Model dosyasında Meta'nın MIT Lisanslı NLLB Modeli bulunduğu için ticari amaçla kullanımından doğacak herhangi bir sorumluluğum bulunmamaktadır. Lisans bilgisi için Model sayfası: [nllb-200-distilled-600M](https://huggingface.co/facebook/nllb-200-distilled-600M)
