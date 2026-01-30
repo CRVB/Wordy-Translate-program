@@ -6,7 +6,7 @@ Arayüz PySide6 ile tasarlanmış olup internet bağlantısıyla ilk çalıştı
 
 | Desteklenen Platform | İndir |
 |----------------------|-------|
-| Windows 10 ve üzeri için .exe uzantılı | [İndir]([https://www.mediafire.com/file/fjj9bwliavgnhgy/Wordy-translate.zip/file](https://github.com/CRVB/Wordy-Translate-program/releases/tag/x86-64)) |
+| Windows 10 ve üzeri için .exe uzantılı | [İndir](https://github.com/CRVB/Wordy-Translate-program/releases/tag/x86-64) |
 
 
 ---
